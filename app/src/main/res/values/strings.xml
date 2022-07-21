@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinApplicationHomeWork</string>
+    <string name="transfer_to_the_next_activity">Перевод на следующий активинити</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="first_activity">First activity</string>
+    <string name="second_activity">Second activity</string>
+    <string name="redactor_toast">Редактируемая строка не может быть пустой</string>
+</resources>
